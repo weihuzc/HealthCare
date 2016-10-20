@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthCare</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="scanButton">Scan local device</string>
+    <string name="loginName">Loginname</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="goToRegister">To register>></string>
+     <string name="device">Device</string>
+    <string name="meassure">Meassure</string>
+    <string name="record">Record</string>
+    <string name="SBP">SBP</string>
+    <string name="DBP">DBP</string>   
+    <string name="HR">HR  </string>
+    <string name="showChart">Show Chart>></string>
+    <string name="realName">RealName</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthday">Birthday</string>
+    <string name="alert">Alert</string>
+    <string name="connected">Connected</string>
+    <string name="connectionFailed">Connection failed</string>
+    <string name="connecting">Connecting devices</string>
+    <string name="searching">Searching devices</string>
+    <string name="sureToQuit">Are you sure to quit?</string>
+    <string name="quit">Quit</string>
+    <string name="time">Time</string>
+    <string name="cannotBeEmpty">Loginname or password cannot be empty</string>
+    <string name="loginSuccess">Login success</string>
+    <string name="loginNameorPasswordWrong">Loginname or password is wrong</string>
+    <string name="registerSuccess">Register success</string>
+    <string name="registerFailed">Register failed,This loginname has been in existence</string>
+    <string name="localDevice">Paired or local device</string>
+    <string name="showRecord">Show record</string>
+    <string name="information">Information</string>
+    <string name="chart">Chart</string>
+
+</resources>

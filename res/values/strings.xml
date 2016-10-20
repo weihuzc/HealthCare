@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">健康医疗</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startButton">开始</string>
+    <string name="stopButton">停止</string>
+    <string name="scanButton">查找附近的设备</string>
+    <string name="loginName">账号</string>
+    <string name="password">密码</string>
+    <string name="register">注册</string>
+    <string name="cancel">取消</string>
+    <string name="login">登录</string>
+    <string name="goToRegister">没有账号，去注册>></string>
+    <string name="device">设备</string>
+    <string name="meassure">测量</string>
+    <string name="record">记录</string>
+    <string name="SBP">高压</string>
+    <string name="DBP">低压</string>    
+    <string name="HR">心率</string>
+    <string name="showChart">查看图表>></string>
+    <string name="realName">姓名</string>
+    <string name="sex">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="birthday">生日</string>
+    <string name="alert">提示</string>
+    <string name="connected">已成功连接</string>
+    <string name="connectionFailed">连接失败</string>
+    <string name="connecting">正在连接设备</string>
+    <string name="searching">正在搜索设备</string>
+    <string name="sureToQuit">确认退出吗？</string>
+    <string name="quit">退出</string>
+    <string name="time">时间</string>
+    <string name="cannotBeEmpty">账号和密码不能为空</string>
+    <string name="loginSuccess">登录成功</string>
+    <string name="loginNameorPasswordWrong">账号或密码错误</string>
+    <string name="registerSuccess">注册成功</string>
+    <string name="registerFailed">注册失败，该账号已存在</string>
+    <string name="localDevice">已配对或附近的设备</string>
+    <string name="showRecord">查看记录</string>
+    <string name="information">资料</string>
+    <string name="chart">图表</string>
+
+</resources>
